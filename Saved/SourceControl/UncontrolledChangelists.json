@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/juanc/Documents/GitHub/UNIR_TopDown/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/juanc/Documents/GitHub/UNIR_TopDown/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"C:/Users/juanc/Documents/GitHub/UNIR_TopDown/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/juanc/Documents/GitHub/UNIR_TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/juanc/Documents/GitHub/UNIR_TopDown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/juanc/Documents/GitHub/UNIR_TopDown/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/juanc/Documents/GitHub/UNIR_TopDown/Content/TopDown/Input/Actions/IA_shooting.uasset",
+				"C:/Users/juanc/Documents/GitHub/UNIR_TopDown/Content/TopDown/Blueprints/BP_Bullet.uasset",
+				"C:/Users/juanc/Documents/GitHub/UNIR_TopDown/Content/TopDown/Input/Actions/IA_Move+.uasset"
+			]
+		}
+	]
+}
