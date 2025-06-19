@@ -1,4 +1,4 @@
-﻿# === UNREAL ENGINE ===
+﻿# === UNREAL ENGINE - SOLO ARCHIVOS TEMPORALES ===
 Binaries/
 DerivedDataCache/
 Intermediate/
@@ -13,29 +13,6 @@ Plugins/*/Intermediate/
 *.log
 *.sln
 *.suo
-
-# === ARCHIVOS PESADOS - STRATEGY: SOLO ESENCIALES ===
-# Audio (probablemente muy pesado)
-*.wav
-*.ogg
-*.mp3
-Content/Audio/
-
-# Videos
-*.mp4
-*.avi
-*.mov
-Content/Movies/
-Content/Cinematics/
-
-# Texturas grandes
-*.tga
-Content/Textures/4K/
-Content/Textures/8K/
-
-# Modelos muy pesados
-Content/Meshes/HighPoly/
-Content/StaticMeshes/Detailed/
 
 # === SISTEMA ===
 .DS_Store
